@@ -21,7 +21,7 @@
         <div class="language-bar">
       <select>
         <option>English</option>
-        <option>हिन्दी</option>
+        <option>Hindi</option>
         <option>Español</option>
         <option>Français</option>
       </select>
